@@ -1,0 +1,112 @@
+{
+  "cetend_cv": {
+    "version": 100
+  },
+  "info": {
+    "author": "Solaire",
+    "create_time": 1428402660900,
+    "modify_time": 1428402660900,
+    "title": "Solaire's Curriculum Vitae"
+  },
+  "sections": [
+    {
+      "name": "Cover",
+      "type": "cover",
+      "background": {
+        "color": {
+          "r": 56,
+          "g": 124,
+          "b": 84,
+          "a": 255
+        },
+        "color_scheme": "color-scheme-light",
+        "image": null
+      },
+      "special": {
+        "cover": {
+          "title": "Solaire's Curriculum Vitae",
+          "subtitle": "Sunlight Knight",
+          "avatar": "/cetend-cvdata/images/solaire-avatar-1.jpg"
+        }  
+      }
+    },
+    {
+      "name": "Overview",
+      "type": "overview",
+      "background": {
+        "color": {
+          "r": 56,
+          "g": 124,
+          "b": 84,
+          "a": 255
+        },
+        "color_scheme": "color-scheme-light",
+        "image": null
+      },
+      "special": {
+        "overview": {
+          "details": [
+            {
+              "title": "Personal Information",
+              "field": [
+                {
+                  "name": "Name",
+                  "value": "Solaire of Astora"
+                },
+                {
+                  "name": "Age",
+                  "value": "(Unknow)"
+                },
+                {
+                  "name": "Gender",
+                  "value": "Male"
+                },
+                {
+                  "name": "Life experience",
+                  "value": "Lord Gwyn's firstborn"
+                }
+              ]
+            },
+            {
+              "title": "Equipment",
+              "field": [
+                {
+                  "name": "Left hand",
+                  "value": "[Sunlight Straight Sword](http://darksouls.wikia.com/wiki/Sunlight_Straight_Sword)"
+                },
+                {
+                  "name": "Right hand",
+                  "value": "Sunlight Shield"
+                },
+                {
+                  "name": "Armor",
+                  "value": "Sunlight Talisman"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Experience Summary",
+      "type": "article",
+      "background": {
+        "color": {
+          "r": 56,
+          "g": 124,
+          "b": 84,
+          "a": 255
+        },
+        "color_scheme": "color-scheme-light",
+        "image": null
+      },
+      "special": {
+        "article": {
+          "title": "Experience Summary",
+          "content": "Solaire is first found just in front of the bridge that leads to Undead Parish, gazing at the sun. Speaking to him here will give the player the White Sign Soapstone and allow Solaire to be summoned to fight the Bell Gargoyles as a Gold Phantom.\n\nSolaire may be summoned for the fight with the Gaping Dragon in the Depths.\n\nSolaire can be met by a bonfire in Anor Londo and can be summoned for the encounter with Ornstein and Smough. Afterwards, Solaire will move from Anor Londo to the Sunlight Altar in Undead Parish, offering the player a chance to join the Warrior of Sunlight Covenant.\n\nSolaire can be summoned for the Centipede Demon fight.\n\nAfter defeating the Centipede Demon and continuing towards Lost Izalith from the boss arena, the player will encounter him again. If the player speaks to Solaire immediately after OR enters Lost Izalith from this location, Solaire will later become hostile, attacking the player on their next meeting and will be unavailable as a phantom in the Kiln of the First Flame.\n\nIf the player instead takes the shortcut to Lost Izalith (which can only be accessed through being a +2 Chaos Servant), and destroys the glowing red eyed Chaos Bug found there and kills the Centipede Demon, Solaire can be found sitting in the Chaos Bug room saddened that he could not find his own sun. In his lucid state, Solaire can later be summoned for the fight against Gwyn."
+        }
+      }
+    }
+  ]
+}
